@@ -31,7 +31,7 @@ This plugin adds a beautiful custom call to action Gutenberg block in the Gutenb
 This plugin will add new block named custom call to action block in gutenberg blocks. This plugin will create custom call to action button and it gives you freedom to choose background colour, text colour, font size, padding etc.
 
 ## How to use ?
-Go to WordPress Dashboard > Posts/Pages > Add New > Add block ( + icon ) > Call to action
+Go to WordPress Dashboard > Posts/Pages > Add New > Add block ( + icon ) > Call to Action
 
 ![screenshot-1](https://user-images.githubusercontent.com/46484569/73126032-9ba2ab80-3fd3-11ea-8adc-45a407650053.png)
 
