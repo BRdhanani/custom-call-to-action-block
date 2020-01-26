@@ -2,6 +2,8 @@
 
 This plugin adds a beautiful custom call to action Gutenberg block in the Gutenberg editor of your WordPress dashboard.
 
+## Plugin URL
+[Custom call to action block](https://wordpress.org/plugins/custom-call-to-action-block/)
 ## Installation 🔧
   1. Download the zip file from github. Unzip the plugin.
 
@@ -36,3 +38,6 @@ Go to WordPress Dashboard > Posts/Pages > Add New > Add block ( + icon ) > Call 
 ![screenshot-1](https://user-images.githubusercontent.com/46484569/73126032-9ba2ab80-3fd3-11ea-8adc-45a407650053.png)
 
 ![screenshot-2](https://user-images.githubusercontent.com/46484569/73126038-b2e19900-3fd3-11ea-96af-29563eafeff6.png)
+
+## credit
+[Ankita Tanti](https://github.com/AnkitaTanti)
