@@ -29,6 +29,14 @@ This plugin adds a beautiful custom call to action Gutenberg block in the Gutenb
   
   That's it! You have successfully added custom call to action block plugin.
   
+## Features.
+1. It comes with a clean design.
+
+2. There are different customization options.
+
+3. You can reset all the options if needed. 
+
+  
 ## What is the use of this plugin.
 This plugin will add new block named custom call to action block in gutenberg blocks. This plugin will create custom call to action button and it gives you freedom to choose background colour, text colour, font size, padding etc.
 
