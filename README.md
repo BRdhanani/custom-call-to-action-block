@@ -4,6 +4,7 @@ This plugin adds a beautiful custom call to action Gutenberg block in the Gutenb
 
 ## Plugin URL
 [Custom call to action block](https://wordpress.org/plugins/custom-call-to-action-block/)
+
 ## Installation 🔧
   1. Download the zip file from github. Unzip the plugin.
 
