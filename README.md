@@ -48,5 +48,5 @@ Go to WordPress Dashboard > Posts/Pages > Add New > Add block ( + icon ) > Call 
 
 ![screenshot-2](https://user-images.githubusercontent.com/46484569/73126038-b2e19900-3fd3-11ea-96af-29563eafeff6.png)
 
-## credit
+## 🙌 credit
 [Ankita Tanti](https://github.com/AnkitaTanti)
